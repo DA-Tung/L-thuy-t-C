@@ -1,1 +1,1 @@
-# Ly_thuyet_C-Cplus
+# Lý thuyết C/C++
